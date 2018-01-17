@@ -27,21 +27,7 @@ Location: Glennan 313
 
 
 
-
----
-
-### Lab Assignment Topics
-
-1. Development Tools Introduction
-2. HDL Coding, Counters, PWM
-3. Metastability, Code Refactoring
-4. Intro to State Machines
-5. Serial Devices
-6. Serial Communication Protocols
-7. Accelerometer, RGB LEDs
-8. Data Pipelining, LCD
-9. Audio Codec, DDS
-10. TBD
+---?image=https://raw.githubusercontent.com/CWRU-EECS301-S18/syllabus/master/Lectures/Lecture01/Slides/images/LabTopicsOverview.png&size=auto 90%
 
 ---
 
