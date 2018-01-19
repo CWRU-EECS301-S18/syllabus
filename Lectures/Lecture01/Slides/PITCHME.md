@@ -30,7 +30,7 @@ Location: Glennan 313
 
 ## Development Tools
 
-* Quartus II FPGA Design Software
+* Quartus Prime FPGA Design Software
 * ModelSim Simulation Software
 * Git / GitHub
 * Markdown
@@ -42,9 +42,9 @@ Location: Glennan 313
 
 ---
 
-### ESD ISSUES
+### Electrostatic Discharge Issues
 
-* Electrostatic discharge destroys electronic components 
+* ESD destroys electronic components 
 * Mitigation
 	* Discharge on earth ground
 	* Pick up dev board by metal plate
@@ -65,11 +65,12 @@ Location: Glennan 313
 
 ## Lab #1 Assignment
 
-* Email invitation for assignment
-* Invitation link creates GitHub repo for each student
+* Email with Assignment Invitation
+* Invitation link creates personal GitHub repo
 * Tool Setup (GitHub, Git, Quartus, ModelSim)
-* Code Example (Buttons and LED's simple example)
-* Project and Markdown Report submitted by GitHub commit
+* Code Example (Buttons and LEDs simple example)
+* Project and Report submitted by GitHub commit
+* Report PDF submitted to Canvas
 
 ---?image=https://raw.githubusercontent.com/CWRU-EECS301-S18/syllabus/master/Lectures/Lecture01/Slides/images/Lab1_DevBoardLayout.png&size=auto 90%
 
