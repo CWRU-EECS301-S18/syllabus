@@ -2,10 +2,7 @@
 
 **Digital Logic Laboratory**
 
-Instructor: ?
-
-TA: ?
-TA: ?
+TAs: Michael Codega & Mary Katherine Miller
 
 Lectures: Friday 3:20 - 4:10
 
@@ -31,18 +28,17 @@ Location: Glennan 313
 
 ---
 
-## Class Workflow
+## Development Tools
 
-* GitHub Class Organization
-* Lab Assignments via GitHub Classroom
-* Reports using Markdown
-* Class communications via Slack
+* Quartus II FPGA Design Software
+* ModelSim Simulation Software
+* Git / GitHub
+* Markdown
+* DE1-SoC FPGA Development Board
+* Oscilloscope / Logic Analyzer
 
----
 
-### Altera Cyclone V SoC DevKit
-
-![DevKit](https://raw.githubusercontent.com/CWRU-EECS301-S18/syllabus/master/Lectures/Lecture01/Slides/images/DE1-SoC_board_top.jpg)
+---?image=https://raw.githubusercontent.com/CWRU-EECS301-S18/syllabus/master/Lectures/Lecture01/Slides/images/DevelopmentBoard.png&size=auto 90%
 
 ---
 
@@ -56,11 +52,14 @@ Location: Glennan 313
 
 ---
 
-## Development Tools
+## Class Workflow
 
-Quartus II Design Software
-
-ModelSim Simulation Software
+* GitHub Classroom
+	* Lab Assignment Distribution
+	* Team Collaboration
+	* Project / Report Submission
+* Reports written using Markdown
+* Class communications via Slack
 
 ---
 
