@@ -8,7 +8,7 @@ Lectures: Friday 3:20 - 4:10
 
 Location: Glennan 313
 
----?image=https://raw.githubusercontent.com/CWRU-EECS301-S18/syllabus/master/Lectures/Lecture01/Slides/images/HistoryofProgrammableLogic.png&size=90% auto
+---?image=https://raw.githubusercontent.com/CWRU-EECS301-S18/syllabus/master/Lectures/Lecture01/Slides/images/HistoryofProgrammableLogic.png&size=auto 90%
 
 Note:
 
