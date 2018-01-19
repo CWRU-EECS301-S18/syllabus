@@ -18,10 +18,7 @@ Location: Glennan 313
 * CPLD
 * FPGA
 
----
-
-### PLD vs CPU 
-
+---?image=https://raw.githubusercontent.com/CWRU-EECS301-S18/syllabus/master/Lectures/Lecture01/Slides/images/FPGAvsCPUArchitectures.png&size=auto 90%
 
 
 ---?image=https://raw.githubusercontent.com/CWRU-EECS301-S18/syllabus/master/Lectures/Lecture01/Slides/images/LabTopicsOverview.png&size=auto 90%
@@ -37,6 +34,8 @@ Location: Glennan 313
 * DE1-SoC FPGA Development Board
 * Oscilloscope / Logic Analyzer
 
+Note:
+Demo Quartus and ModelSim
 
 ---?image=https://raw.githubusercontent.com/CWRU-EECS301-S18/syllabus/master/Lectures/Lecture01/Slides/images/DevelopmentBoard.png&size=auto 90%
 
@@ -63,7 +62,7 @@ Location: Glennan 313
 
 ---
 
-## Lab #1 Assignment
+## Lab Assignment #1
 
 * Email with Assignment Invitation
 * Invitation link creates personal GitHub repo
