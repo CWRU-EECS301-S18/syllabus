@@ -40,6 +40,8 @@ A textbook for the course will not be required.  The lab assignments will includ
 * An [FPGA Development Kit](http://www.terasic.com.tw/cgi-bin/page/archive.pl?Language=English&No=836) will be assigned to each team to share for the projects.
 * FPGA design software is available on the machines in the Glennan 312 Design Lab or may be setup on personal computers (details are included with the first lab).
 
+### [Teams Roster](EECS301_S18_TeamRoster.md)
+
 ## Course Content and Requirements
 
 ### Course Ethics and Policies
