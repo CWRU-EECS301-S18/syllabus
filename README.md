@@ -104,7 +104,7 @@ A textbook for the course will not be required.  The lab assignments will includ
 
 ### Lab Submission Rubrics
 
-* Labs are due at 12:14 pm EST (noon + a fortnight of minutes) on date specified in above table (a fort-what?).
+* Labs are due at 3:00 pm EST on date specified in above table.
 * The lab deadlines are implemented to keep you on track - once you 'git' behind, it's very difficult to catch up.
 * Late penalty is -5 points per day late, on a simple subtractive basis (max late penalty is -50 points or 10 days).
 * If labs are more than 10 days late then clearly something is wrong and we need to talk about it.
