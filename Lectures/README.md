@@ -3,7 +3,7 @@
 |                  |    Date      | Slides |
 |------------------|:------------:|:------:|
 | **Lecture 1**    | Jan 19, 2018 | [Lecture 1](https://gitpitch.com/CWRU-EECS301-S18/syllabus/master?p=/Lectures/Lecture01/Slides) |
-| **Lecture 2**    | Jan 26, 2018 |  |
+| **Lecture 2**    | Jan 26, 2018 | [Lecture 2](https://gitpitch.com/CWRU-EECS301-S18/syllabus/master?p=/Lectures/Lecture02/Slides) |
 | **Lecture 3**    | Feb 2, 2018  |  |
 | **Lecture 4**    | Feb 9, 2018  |  |
 | **Lecture 5**    | Feb 16, 2018 |  |
