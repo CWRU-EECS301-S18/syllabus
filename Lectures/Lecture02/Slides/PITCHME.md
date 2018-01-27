@@ -2,7 +2,7 @@
 
 **Digital Logic Laboratory**
 
-Week 2
+**Week 2**
 
 1/26/2018
 
@@ -95,7 +95,7 @@ Note:
 Note:
 
 * RTL designs are only as fast as their slowest logic cloud.
-* The behavorial level abstraction can hide prop-delay chains so it's important to keep in mind how the synthesizer will handle large blocks of combinatorial logic.
+* The behavioral level abstraction can hide prop-delay chains so it's important to keep in mind how the synthesizer will handle large blocks of combinatorial logic.
 
 ---
 
@@ -332,4 +332,4 @@ end
 
 ## Lab 2 Overview
 
-![LED Scanner](https://raw.githubusercontent.com/CWRU-EECS301-S18/syllabus/master/Lectures/Lecture02/Slides/image/led_scanner.gif)
+![LED Scanner](https://raw.githubusercontent.com/CWRU-EECS301-S18/syllabus/master/Lectures/Lecture02/Slides/images/led_scanner.gif)
