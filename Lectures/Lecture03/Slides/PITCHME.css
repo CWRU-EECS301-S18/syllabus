@@ -3,7 +3,7 @@
   box-shadow: none;
 }
 
-.reveal code {
+.reveal pre code {
   background: rgba(255, 255, 255, 0.05);
 }
 
