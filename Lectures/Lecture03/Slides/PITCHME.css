@@ -3,7 +3,7 @@
   box-shadow: none;
 }
 
-.reveal section code {
-  background-color: rgba(255, 255, 255, 0.05);
+.reveal section pre code hljs {
+  background: rgba(255, 255, 255, 0.05);
 }
 
