@@ -6,3 +6,8 @@
 .reveal pre code {
   background: rgba(0, 0, 0, 0.05);
 }
+
+.reveal code {
+  background: rgba(0, 0, 0, 0.05);
+}
+
