@@ -1,2 +1,4 @@
 theme : white
 theme-override : PITCHME.css
+highlight : hybrid
+
