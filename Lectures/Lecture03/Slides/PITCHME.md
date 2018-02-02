@@ -43,6 +43,17 @@ Either initialize or reset all registers.
 
 ---
 
+## Lab 3 Topics
+
+* Asynchronous Signals / Metastability
+* Clock Domain Synchronization
+* Shift Registers
+* HDL Features
+	* Auto Code Generation
+	* Code Refactoring
+
+---
+
 ### Asynchronous Signals
 
 * FPGAs are intended to be synchronous systems
@@ -71,14 +82,15 @@ Either initialize or reset all registers.
 
 ---
 
-### Synchronizer Register Chain
+### Metastability Mitigation
+
+#### Synchronizer Register Chain
 
 ![Sync Chain](https://raw.githubusercontent.com/CWRU-EECS301-F17/syllabus/master/Lectures/Lecture03/Slides/SyncChain.png)
 
 Note:
 Typical synchronizer chain length is 2 or 3 registers.
 Faster clock rates need longer chains due to metastability bleed though which is shown in the Faster Clock slide.
-overflow
 
 ---?image=https://raw.githubusercontent.com/CWRU-EECS301-F17/syllabus/master/Lectures/Lecture03/Slides/MsWf01.png&size=auto 90%
 
@@ -111,7 +123,16 @@ Rising and falling edges of the same clock should be considered two separate clo
 
 ---
 
-## Lab 3 Topics
+### Shift Register Chains
+
+* Serial-in, Parallel-out (serial receiver)
+* Parallel-load, Serial-out (serial transmitter)
+* Linear-feedback Shift Register (cryptography)
+* Serial-in, Serial-out (Delay-lines)
+* Serial Loop-Back, Parallel-out (Ring Counters)
+
+---?image=https://raw.githubusercontent.com/CWRU-EECS301-F17/syllabus/master/Lectures/Lecture03/Slides/ShiftRegisterRingCounter.png&size=90% 90%
+
 
 ---
 
@@ -166,18 +187,6 @@ endmodule
 
 ---
 
-### Shift Register Chains
-
-* Serial-in, Parallel-out (serial receiver)
-* Parallel-load, Serial-out (serial transmitter)
-* Linear-feedback Shift Register (cryptography)
-* Serial-in, Serial-out (Delay-lines)
-* Serial Loop-Back, Parallel-out (Ring Counters)
-
----?image=https://raw.githubusercontent.com/CWRU-EECS301-F17/syllabus/master/Lectures/Lecture03/Slides/ShiftRegisterRingCounter.png&size=90% 90%
-
-
----
 
 
 ### Refactoring Code
