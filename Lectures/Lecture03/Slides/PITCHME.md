@@ -146,6 +146,8 @@ Rising and falling edges of the same clock should be considered two separate clo
 
 ---
 
+#### Generate Example
+
 ```verilog
 module Generate_Module
 #(
@@ -187,13 +189,12 @@ endmodule
 
 ---
 
-
-
 ### Refactoring Code
 
 * Repurposing existing code for a different application
-* Saves time starting with something rather than nothing
+* Save time starting with something rather than nothing
 * Faster time to market
+* Leverage previous testing
 
 ---
 
