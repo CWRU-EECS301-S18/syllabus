@@ -25,7 +25,7 @@ Lab 3 Questions, Issues, Feedback?
 
 ---?image=https://raw.githubusercontent.com/CWRU-EECS301-S18/syllabus/master/Lectures/Lecture04/Slides/images/PinPlannerWindow.png&size=90% auto
 
----?image=https://raw.githubusercontent.com/CWRU-EECS301-S18/syllabus/master/Lectures/Lecture04/Slides/images/PinAssignmentsQSF.png&size=90% auto
+---?image=https://raw.githubusercontent.com/CWRU-EECS301-S18/syllabus/master/Lectures/Lecture04/Slides/images/PinAssignmentsQSF.png&size=auto 90%
 
 
 ---
