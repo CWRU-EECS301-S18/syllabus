@@ -23,18 +23,18 @@ Lab 3 Questions, Issues, Feedback?
 * Bank power rails may differ
 * Lots of caveats so read datasheet carefully
 
----?image=https://raw.githubusercontent.com/CWRU-EECS301-F17/syllabus/master/Lectures/Lecture04/Slides/images/PinPlannerWindow.png&size=90% auto
+---?image=https://raw.githubusercontent.com/CWRU-EECS301-S18/syllabus/master/Lectures/Lecture04/Slides/images/PinPlannerWindow.png&size=90% auto
 
----?image=https://raw.githubusercontent.com/CWRU-EECS301-F17/syllabus/master/Lectures/Lecture04/Slides/images/PinAssignmentsQSF.png&size=90% auto
+---?image=https://raw.githubusercontent.com/CWRU-EECS301-S18/syllabus/master/Lectures/Lecture04/Slides/images/PinAssignmentsQSF.png&size=90% auto
 
 
 ---
 
 ### Multiplexer Structures
 
----?image=https://raw.githubusercontent.com/CWRU-EECS301-F17/syllabus/master/Lectures/Lecture04/Slides/images/CombMux.png&size=90% auto
+---?image=https://raw.githubusercontent.com/CWRU-EECS301-S18/syllabus/master/Lectures/Lecture04/Slides/images/CombMux.png&size=90% auto
 
----?image=https://raw.githubusercontent.com/CWRU-EECS301-F17/syllabus/master/Lectures/Lecture04/Slides/images/RegMux.png&size=90% auto
+---?image=https://raw.githubusercontent.com/CWRU-EECS301-S18/syllabus/master/Lectures/Lecture04/Slides/images/RegMux.png&size=90% auto
 
 ---
 
@@ -151,21 +151,21 @@ One Register Per State
 |  S3   |   1000   |
 
 
----?image=https://raw.githubusercontent.com/CWRU-EECS301-F17/syllabus/master/Lectures/Lecture04/Slides/images/StateEncoding.png&size=auto 90%
+---?image=https://raw.githubusercontent.com/CWRU-EECS301-S18/syllabus/master/Lectures/Lecture04/Slides/images/StateEncoding.png&size=auto 90%
 
 
----?image=https://raw.githubusercontent.com/CWRU-EECS301-F17/syllabus/master/Lectures/Lecture04/Slides/images/StateMachineProcessBlock.png&size=auto 90%
+---?image=https://raw.githubusercontent.com/CWRU-EECS301-S18/syllabus/master/Lectures/Lecture04/Slides/images/StateMachineProcessBlock.png&size=auto 90%
 
 Note:
 State Machine Process Block Overview
 If statement for Reset condition, case statement for State decoding.
 
----?image=https://raw.githubusercontent.com/CWRU-EECS301-F17/syllabus/master/Lectures/Lecture04/Slides/images/StateMachineActionTransition.png&size=auto 90%
+---?image=https://raw.githubusercontent.com/CWRU-EECS301-S18/syllabus/master/Lectures/Lecture04/Slides/images/StateMachineActionTransition.png&size=auto 90%
 
 Note:
 State Actions and Transitions
 
----?image=https://raw.githubusercontent.com/CWRU-EECS301-F17/syllabus/master/Lectures/Lecture04/Slides/images/StateChartDiagrams.png&size=auto 90%
+---?image=https://raw.githubusercontent.com/CWRU-EECS301-S18/syllabus/master/Lectures/Lecture04/Slides/images/StateChartDiagrams.png&size=auto 90%
 
 ---
 
@@ -188,35 +188,35 @@ Note:
 
 # Lab 4 Overview
 
----?image=https://raw.githubusercontent.com/CWRU-EECS301-F17/syllabus/master/Lectures/Lecture04/Slides/images/Lab4-DevBoardLayout.png&size=90% auto
+---?image=https://raw.githubusercontent.com/CWRU-EECS301-S18/syllabus/master/Lectures/Lecture04/Slides/images/Lab4-DevBoardLayout.png&size=90% auto
 
 ---
 
 ## Quick Binary to Decimal
 
-+++?image=https://raw.githubusercontent.com/CWRU-EECS301-F17/syllabus/master/Lectures/Lecture04/Slides/images/Bin2DecS01.png&size=100% auto
++++?image=https://raw.githubusercontent.com/CWRU-EECS301-S18/syllabus/master/Lectures/Lecture04/Slides/images/Bin2DecS01.png&size=100% auto
 <!-- .slide: data-background-transition="none" -->
-+++?image=https://raw.githubusercontent.com/CWRU-EECS301-F17/syllabus/master/Lectures/Lecture04/Slides/images/Bin2DecS02.png&size=100% auto
++++?image=https://raw.githubusercontent.com/CWRU-EECS301-S18/syllabus/master/Lectures/Lecture04/Slides/images/Bin2DecS02.png&size=100% auto
 <!-- .slide: data-background-transition="none" -->
-+++?image=https://raw.githubusercontent.com/CWRU-EECS301-F17/syllabus/master/Lectures/Lecture04/Slides/images/Bin2DecS03.png&size=100% auto
++++?image=https://raw.githubusercontent.com/CWRU-EECS301-S18/syllabus/master/Lectures/Lecture04/Slides/images/Bin2DecS03.png&size=100% auto
 <!-- .slide: data-background-transition="none" -->
-+++?image=https://raw.githubusercontent.com/CWRU-EECS301-F17/syllabus/master/Lectures/Lecture04/Slides/images/Bin2DecS04.png&size=100% auto
++++?image=https://raw.githubusercontent.com/CWRU-EECS301-S18/syllabus/master/Lectures/Lecture04/Slides/images/Bin2DecS04.png&size=100% auto
 <!-- .slide: data-background-transition="none" -->
-+++?image=https://raw.githubusercontent.com/CWRU-EECS301-F17/syllabus/master/Lectures/Lecture04/Slides/images/Bin2DecS05.png&size=100% auto
++++?image=https://raw.githubusercontent.com/CWRU-EECS301-S18/syllabus/master/Lectures/Lecture04/Slides/images/Bin2DecS05.png&size=100% auto
 <!-- .slide: data-background-transition="none" -->
-+++?image=https://raw.githubusercontent.com/CWRU-EECS301-F17/syllabus/master/Lectures/Lecture04/Slides/images/Bin2DecS06.png&size=100% auto
++++?image=https://raw.githubusercontent.com/CWRU-EECS301-S18/syllabus/master/Lectures/Lecture04/Slides/images/Bin2DecS06.png&size=100% auto
 <!-- .slide: data-background-transition="none" -->
-+++?image=https://raw.githubusercontent.com/CWRU-EECS301-F17/syllabus/master/Lectures/Lecture04/Slides/images/Bin2DecS07.png&size=100% auto
++++?image=https://raw.githubusercontent.com/CWRU-EECS301-S18/syllabus/master/Lectures/Lecture04/Slides/images/Bin2DecS07.png&size=100% auto
 <!-- .slide: data-background-transition="none" -->
-+++?image=https://raw.githubusercontent.com/CWRU-EECS301-F17/syllabus/master/Lectures/Lecture04/Slides/images/Bin2DecS08.png&size=100% auto
++++?image=https://raw.githubusercontent.com/CWRU-EECS301-S18/syllabus/master/Lectures/Lecture04/Slides/images/Bin2DecS08.png&size=100% auto
 <!-- .slide: data-background-transition="none" -->
-+++?image=https://raw.githubusercontent.com/CWRU-EECS301-F17/syllabus/master/Lectures/Lecture04/Slides/images/Bin2DecS09.png&size=100% auto
++++?image=https://raw.githubusercontent.com/CWRU-EECS301-S18/syllabus/master/Lectures/Lecture04/Slides/images/Bin2DecS09.png&size=100% auto
 <!-- .slide: data-background-transition="none" -->
-+++?image=https://raw.githubusercontent.com/CWRU-EECS301-F17/syllabus/master/Lectures/Lecture04/Slides/images/Bin2DecS10.png&size=100% auto
++++?image=https://raw.githubusercontent.com/CWRU-EECS301-S18/syllabus/master/Lectures/Lecture04/Slides/images/Bin2DecS10.png&size=100% auto
 <!-- .slide: data-background-transition="none" -->
-+++?image=https://raw.githubusercontent.com/CWRU-EECS301-F17/syllabus/master/Lectures/Lecture04/Slides/images/Bin2DecS11.png&size=100% auto
++++?image=https://raw.githubusercontent.com/CWRU-EECS301-S18/syllabus/master/Lectures/Lecture04/Slides/images/Bin2DecS11.png&size=100% auto
 <!-- .slide: data-background-transition="none" -->
-+++?image=https://raw.githubusercontent.com/CWRU-EECS301-F17/syllabus/master/Lectures/Lecture04/Slides/images/Bin2DecS12.png&size=100% auto
++++?image=https://raw.githubusercontent.com/CWRU-EECS301-S18/syllabus/master/Lectures/Lecture04/Slides/images/Bin2DecS12.png&size=100% auto
 <!-- .slide: data-background-transition="none" -->
 
 ---
