@@ -13,6 +13,8 @@
 Note:
 Lab 3 Questions, Issues, Feedback?
 
+---?image=https://raw.githubusercontent.com/CWRU-EECS301-S18/syllabus/master/Lectures/Lecture01/Slides/images/LabTopicsOverview.png&size=auto 90%
+
 ---
 
 ### Project Pin Assignments 
