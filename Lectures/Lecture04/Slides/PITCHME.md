@@ -57,11 +57,11 @@ Every ALM in the FPGA can make both a combinatorial and registered multiplexer.
 
 ### Types of Test Benches
 
-* Functional Check
+* **Functional Check**
 	* Development Testing
 	* Manual Results Checking
 	* Expert Knowledge Required
-* Functional Verification
+* **Functional Verification**
 	* Automated Results Checking
 	* Development & Regression Testing
 	* Simple Pass/Fail Status 
