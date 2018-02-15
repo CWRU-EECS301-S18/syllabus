@@ -55,6 +55,7 @@ Lab 4 Questions, Issues, Feedback?
 * Data Framing and Signaling Protocol
 * Used for RS-232, RS-422, RS-485 Bus Standards
 * Supported by most embedded systems (terminal)
+* Many USB <-> UART Bridge Chips Available
 * Basic Error Detection (Optional Parity Bit)
 * Configurable Speed and Data Payloads (7/8/9-bits)
 * Anyone remember dial-up modems?
@@ -99,11 +100,11 @@ Better BIOS support than USB
 ---?image=https://upload.wikimedia.org/wikipedia/commons/b/b5/International_Morse_Code.svg&size=auto 90%
 
 
----?image=https://raw.githubusercontent.com/CWRU-EECS301-S18/syllabus/master/Lectures/Lecture05/Slides/images/SerialTransmitter.png&size=95% auto
+---?image=https://raw.githubusercontent.com/CWRU-EECS301-S18/syllabus/master/Lectures/Lecture05/Slides/images/SerialTransmitter.png&size=auto 90%
 
----?image=https://raw.githubusercontent.com/CWRU-EECS301-S18/syllabus/master/Lectures/Lecture05/Slides/images/SerialReceiver.png&size=95% auto
+---?image=https://raw.githubusercontent.com/CWRU-EECS301-S18/syllabus/master/Lectures/Lecture05/Slides/images/SerialReceiver.png&size=auto 90%
 
----?image=https://raw.githubusercontent.com/CWRU-EECS301-S18/syllabus/master/Lectures/Lecture05/Slides/images/SerialTransceiver.png&size=95% auto
+---?image=https://raw.githubusercontent.com/CWRU-EECS301-S18/syllabus/master/Lectures/Lecture05/Slides/images/SerialTransceiver.png&size=auto 90%
 
 
 ---
