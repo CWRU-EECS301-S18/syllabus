@@ -30,15 +30,12 @@ Topics
 Note:
 Lab 5 Questions, Issues, Feedback?
 
----
 
 ---?image=https://raw.githubusercontent.com/CWRU-EECS301-S18/syllabus/master/Lectures/Lecture04/Slides/images/TestBenchArchitecture.png&size=90% auto
 
 Note:
 
 Morse_Code_Transmitter needed the rate_tick signal to be emulated for the simulation.  Best way to do this is copy the existing code that creates the signal in the real design.
-
-
 
 ---
 
@@ -49,6 +46,8 @@ Morse_Code_Transmitter needed the rate_tick signal to be emulated for the simula
 * File paritioning
 * Comments
 
+---
+
 ### Coding Style Tips
 
 * Use a consistent coding style
@@ -57,6 +56,8 @@ Morse_Code_Transmitter needed the rate_tick signal to be emulated for the simula
 	* Assume you're the next person
 * Follow the coding standard of the existing codebase
 * Keep it Simple
+
+---
 
 ## Serial Bus Protocols
 
@@ -86,7 +87,7 @@ https://en.wikipedia.org/wiki/Serial_Peripheral_Interface_Bus
 
 * 2-wire (Clock and Bi-directional Data)
 * Shared multi-device bus using protocol addressing
-* Standardized protocol by NXP Semi (formerly Philips)
+* Standardized protocol by NXP Semiconductors (Philips)
 * Most devices support 400kHz Fast-Mode.
 * Speeds up to 5MHz with latest Ultra Fast-Mode
 * Used for device config, small memories, temp sensors, power supply controllers, etc...
@@ -120,7 +121,7 @@ https://www.i2c-bus.org
 
 ### Serial Manager Architecture
 
-![SPI Bus Memory Manager Diagram](images/SPI_Bus_Memory_Manager_Diagram.png)
+![SPI Bus Memory Manager Diagram](https://raw.githubusercontent.com/CWRU-EECS301-S18/syllabus/master/Lectures/Lecture06/Slides/images/SPI_Bus_Memory_Manager_Diagram.png)
 
 ---
 
