@@ -52,8 +52,8 @@ Morse_Code_Transmitter needed the rate_tick signal to be emulated for the simula
 
 * Use a consistent coding style
 * Uniform indentation for readability
-* Good comments help the next person understand the code
-	* Assume you're the next person
+* Help the next person with good comments
+	* (Assume you're the next person)
 * Follow the coding standard of the existing codebase
 * Keep it Simple
 
@@ -87,7 +87,7 @@ https://en.wikipedia.org/wiki/Serial_Peripheral_Interface_Bus
 
 * 2-wire (Clock and Bi-directional Data)
 * Shared multi-device bus using protocol addressing
-* Standardized protocol by NXP Semiconductors (Philips)
+* Standardized protocol by NXP Semi (fka Philips)
 * Most devices support 400kHz Fast-Mode.
 * Speeds up to 5MHz with latest Ultra Fast-Mode
 * Used for device config, small memories, temp sensors, power supply controllers, etc...
@@ -129,7 +129,6 @@ https://www.i2c-bus.org
 
 * Check State Variable to verify transitions
 * Label States to make it easier to track
-* 
 
 Note:
 Live demo ModelSim looking at State Variable
