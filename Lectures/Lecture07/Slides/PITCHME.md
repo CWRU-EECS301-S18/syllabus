@@ -94,7 +94,7 @@ Design ideas are limited to the given project Framework for the most part.
 
 ### FPGA Computations
 
-* FPGA fabric ALMs optimized for addition
+* FPGA fabric ALMs are optimized for addition
 	* 2-bits per ALM (Cyclone V)
 	* Fast-Carry Chains
 * Possible to implement Multipliers with ALMs
@@ -120,7 +120,7 @@ Hard-IP are FPGA features implemented in Silicon instead of FPGA fabric.
 MAC = Multiply-accumulate
 Fused Multiply Accumulate (A*B + C) maintains precision by having an adder wide enough to accept the multiplier outputs without rounding.
 
----?image=https://raw.githubusercontent.com/CWRU-EECS301-S18/syllabus/master/Lectures/Lecture08/Slides/images/DSPBlockArchitecture.png&size=auto 90%
+---?image=https://raw.githubusercontent.com/CWRU-EECS301-S18/syllabus/master/Lectures/Lecture07/Slides/images/DSPBlockArchitecture.png&size=auto 90%
 
 ---
 
@@ -134,9 +134,9 @@ Fused Multiply Accumulate (A*B + C) maintains precision by having an adder wide 
 Note:
 https://en.wikipedia.org/wiki/Multiply–accumulate_operation
 
----?image=https://raw.githubusercontent.com/CWRU-EECS301-S18/syllabus/master/Lectures/Lecture08/Slides/images/DotProductExample.png&size=auto 90%
+---?image=https://raw.githubusercontent.com/CWRU-EECS301-S18/syllabus/master/Lectures/Lecture07/Slides/images/DotProductExample.png&size=auto 90%
 
----?image=https://raw.githubusercontent.com/CWRU-EECS301-S18/syllabus/master/Lectures/Lecture08/Slides/images/Sector_Diagram.png&size=auto 90%
+---?image=https://raw.githubusercontent.com/CWRU-EECS301-S18/syllabus/master/Lectures/Lecture07/Slides/images/Sector_Diagram.png&size=auto 90%
 
 ---
 
