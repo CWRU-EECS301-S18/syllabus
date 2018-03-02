@@ -1,0 +1,3 @@
+theme-override : assets/css/PITCHME.css
+theme : white
+highlight : github-gist
