@@ -55,9 +55,13 @@ Lab 6 Questions, Issues, Feedback?
 * Introduce devices found in real-world FPGA designs
 	* Accelerometers, RGB LEDs Displays, LCD Panels, Audio Codecs, etc
 * Independent Design Components
-	* Opportunity to apply learned design techniques to create your own design ideas within the given project Framework.
-	* Framework provides starting infrastructure to focus the design work.
-* Targeted time expenditure 12 hours per person over the two-weeks.
+	* Opportunity to apply learned design techniques to create your own design ideas
+	* Framework provides starting infrastructure to simplify and focus the design work
+* Targeted time expenditure 12 hours per person over the two-weeks
+
+Note:
+Design ideas are limited to the given project Framework for the most part.
+
 
 ---
 
@@ -69,7 +73,7 @@ Lab 6 Questions, Issues, Feedback?
 * Static Acceleration (Gravity)
 	* Tilt Sensing
 * I<sup>2</sup>C Bus Interface
-* FPGA computes Tilt direction using Fixed-Point math
+* Tilt direction computed using Fixed-Point math
 
 ---
 
@@ -150,8 +154,7 @@ assign q = a * 16'sh0123 + b * 16'sh8123;
 * OneWire Bus Interface
 * Daisy chain topologies
 * 24-bit RGB Data
-
----?image=https://raw.githubusercontent.com/CWRU-EECS301-S18/syllabus/master/Lectures/Lecture07/Slides/images/LED-Ring.gif&size=auto 90%
+* Widely used for RGB strip lighting
 
 ---
 
