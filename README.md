@@ -88,7 +88,7 @@ A textbook for the course will not be required.  The lab assignments will includ
 | **Lab 4**  | Feb  9, 2018 | Feb 16, 2018 | Mar  2, 2018 |  140 Points  |
 | **Lab 5**  | Feb 16, 2018 | Feb 23, 2018 | Mar  9, 2018 |  210 Points  |
 | **Lab 6**  | Feb 23, 2018 | Mar  2, 2018 | Mar 16, 2018 |  330 Points  |
-| **Lab 7**  | Mar  2, 2018 | Mar 23, 2018 | Apr  6, 2018 |  670 Points  |
+| **Lab 7**  | Mar  2, 2018 | Mar 23, 2018 | Apr  6, 2018 |  560 Points  |
 | **Lab 8**  | Mar 23, 2018 | Apr  9, 2018 | Apr 20, 2018 |  415 Points  |
 | **Lab 9**  | Apr  9, 2018 | Apr 20, 2018 | May  4, 2018 |  275 Points  |
 | **Lab 10** | Apr 20, 2018 | May  4, 2018 | May 10, 2018 |  225 Points  |
