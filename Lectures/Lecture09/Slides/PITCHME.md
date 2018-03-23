@@ -95,7 +95,11 @@ Note:
 
 ### Custom Design Module
 
-
+* Frame Generator options
+	* Complex Pattern using Math
+	* Sprites
+	* Interactive Controls
+	* etc...
 
 ---
 
