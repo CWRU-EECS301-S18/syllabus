@@ -55,11 +55,9 @@ Lab 7 Questions, Issues, Feedback?
 
 * State of the Art 1980's Technology
 
-![boo](https://raw.githubusercontent.com/CWRU-EECS301-F17/syllabus/master/Lectures/Lecture09/Slides/images/boo_image.png)
+![boo](https://raw.githubusercontent.com/CWRU-EECS301-S18/syllabus/master/Lectures/Lecture09/Slides/images/boo_image.png)
 
----?image=https://raw.githubusercontent.com/CWRU-EECS301-F17/syllabus/master/Lectures/Lecture09/Slides/images/pixilart_screen.png&size=90% auto
-
----?image=https://raw.githubusercontent.com/CWRU-EECS301-S18/syllabus/master/Lectures/Lecture09/Slides/images/Sprite_Keyboard_Control_Architecture.png&size=90% auto
+---?image=https://raw.githubusercontent.com/CWRU-EECS301-S18/syllabus/master/Lectures/Lecture09/Slides/images/pixilart_screen.png&size=90% auto
 
 ---?image=https://raw.githubusercontent.com/CWRU-EECS301-S18/syllabus/master/Lectures/Lecture09/Slides/images/Sprite_Direction_Sectors_01.png&size=90% auto
 
@@ -87,11 +85,14 @@ Lab 7 Questions, Issues, Feedback?
 	* Accelerometer 
 	* Sector Position Computation
 
+---?image=https://raw.githubusercontent.com/CWRU-EECS301-S18/syllabus/master/Lectures/Lecture09/Slides/images/Sprite_Keyboard_Control_Architecture.png&size=90% auto
+
 ---
+
 
 # Lab 8 Demo
 
----?image=https://raw.githubusercontent.com/CWRU-EECS301-F17/syllabus/master/Lectures/Lecture09/Slides/images/Lab8-DevBoardLayout.png&size=auto 90%
+---?image=https://raw.githubusercontent.com/CWRU-EECS301-S18/syllabus/master/Lectures/Lecture09/Slides/images/Lab8-DevBoardLayout.png&size=auto 90%
 
 ---
 
