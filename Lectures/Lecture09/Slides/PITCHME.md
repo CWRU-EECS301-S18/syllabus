@@ -78,7 +78,7 @@ Lab 7 Questions, Issues, Feedback?
 
 ---?image=https://raw.githubusercontent.com/CWRU-EECS301-S18/syllabus/master/Lectures/Lecture09/Slides/images/pixilart_screen.png&size=90% auto
 
----?image=https://raw.githubusercontent.com/CWRU-EECS301-S18/syllabus/master/Lectures/Lecture09/Slides/images/Sprite_ROM_Initialization.png&size=90% auto
+---?image=https://raw.githubusercontent.com/CWRU-EECS301-S18/syllabus/master/Lectures/Lecture09/Slides/images/Sprite_ROM_Initialization.png&size=auto 90%
 
 ---?image=https://raw.githubusercontent.com/CWRU-EECS301-S18/syllabus/master/Lectures/Lecture09/Slides/images/Sprite_Direction_Sectors_01.png&size=90% auto
 
