@@ -80,6 +80,11 @@ Lab 7 Questions, Issues, Feedback?
 
 ---?image=https://raw.githubusercontent.com/CWRU-EECS301-S18/syllabus/master/Lectures/Lecture09/Slides/images/Sprite_ROM_Initialization.png&size=auto 90%
 
+Note:
+
+* This sprite example uses a reduced color pallet and a transparency mask so the stored image only takes 3-bits per pixel.
+* The actual color would be applied when the image is rendered.
+
 ---?image=https://raw.githubusercontent.com/CWRU-EECS301-S18/syllabus/master/Lectures/Lecture09/Slides/images/Sprite_Direction_Sectors_01.png&size=90% auto
 
 ---?image=https://raw.githubusercontent.com/CWRU-EECS301-S18/syllabus/master/Lectures/Lecture09/Slides/images/Sprite_Direction_Sectors_02.png&size=90% auto
@@ -88,18 +93,19 @@ Lab 7 Questions, Issues, Feedback?
 
 ---
 
-## Custom Design Opportunity
+### Custom Design Module
+
 
 
 ---
 
-## Lab Code Refactoring
+### Lab Code Refactoring
 
 * Library of modules from the previous labs
 	* Switch / Keyboard Synchronizers
 	* PS/2 Keyboard Module
 	* LED Fadeout Controller
-	* Serial Terminal
+	* Serial Terminal Parser
 	* Serial Message Generator
 	* Accelerometer 
 	* Sector Position Computation
