@@ -13,7 +13,7 @@
 | **Spring Break** | Mar 16, 2018 |  |
 | **Lecture 9**    | Mar 23, 2018 | [Lecture 9](https://gitpitch.com/CWRU-EECS301-S18/syllabus/master?p=/Lectures/Lecture09/Slides) |
 | **Lecture 10**   | Mar 30, 2018 | [Lecture 10](https://gitpitch.com/CWRU-EECS301-S18/syllabus/master?p=/Lectures/Lecture10/Slides) |
-| **Lecture 11**   | Apr 6, 2018  |  |
+| **Lecture 11**   | Apr 6, 2018  | [Lecture 11](https://gitpitch.com/CWRU-EECS301-S18/syllabus/master?p=/Lectures/Lecture11/Slides) |
 | **Lecture 12**   | Apr 13, 2018 |  |
 | **Lecture 13**   | Apr 20, 2018 |  |
 | **Lecture 14**   | Apr 27, 2018 |  |
