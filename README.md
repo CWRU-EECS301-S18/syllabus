@@ -90,7 +90,7 @@ A textbook for the course will not be required.  The lab assignments will includ
 | **Lab 6**  | Feb 23, 2018 | Mar  2, 2018 | Mar 16, 2018 |  330 Points  |
 | **Lab 7**  | Mar  2, 2018 | Mar 23, 2018 | Apr  6, 2018 |  560 Points  |
 | **Lab 8**  | Mar 23, 2018 | Apr  9, 2018 | Apr 20, 2018 |  530 Points  |
-| **Lab 9**  | Apr  9, 2018 | Apr 20, 2018 | May  4, 2018 |  275 Points  |
+| **Lab 9**  | Apr  9, 2018 | Apr 20, 2018 | May  4, 2018 |  370 Points  |
 | **Lab 10** | Apr 20, 2018 | May  4, 2018 | May 10, 2018 |  225 Points  |
 
 * Lab Dev Kits **MUST** be returned to the lockers by 4:15pm May 10, 2018
