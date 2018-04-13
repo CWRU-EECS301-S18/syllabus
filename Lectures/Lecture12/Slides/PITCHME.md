@@ -78,7 +78,6 @@ Bring your laptop - Dinner Provided
 
 ---
 
-
 ### FPGA Timing Constraints
 
 * All FPGA signals require timing constraints
@@ -93,7 +92,9 @@ Bring your laptop - Dinner Provided
 * Quartus constraint files have an **.sdc** extension
 * Every lab project has had a constraints file included
 	* [Lab 9 Constraints File](EECS301_Lab9_Project.sdc)
-* TimeQuest Timing Analyzer provides timing reports
+* TimeQuest Timing Analyzer
+	* Create / Edit Constraints
+	* Generate Timing Reports
 * Refer to this [User Guide](http://www.alterawiki.com/uploads/3/3f/TimeQuest_User_Guide.pdf) for detailed information about setting constraints in Quartus
 
 ---
