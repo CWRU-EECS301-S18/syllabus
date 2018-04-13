@@ -91,11 +91,15 @@ Bring your laptop - Dinner Provided
 
 * Quartus constraint files have an **.sdc** extension
 * Every lab project has had a constraints file included
-	* [Lab 9 Constraints File](EECS301_Lab9_Project.sdc)
+	* [Lab 9 Constraints File](https://raw.githubusercontent.com/CWRU-EECS301-S18/syllabus/master/Lectures/Lecture12/Slides/EECS301_Lab9_Project.sdc)
 * TimeQuest Timing Analyzer
 	* Create / Edit Constraints
 	* Generate Timing Reports
 * Refer to this [User Guide](http://www.alterawiki.com/uploads/3/3f/TimeQuest_User_Guide.pdf) for detailed information about setting constraints in Quartus
+
+Note:
+
+SDC = Synopsys Design Constraint
 
 ---
 
