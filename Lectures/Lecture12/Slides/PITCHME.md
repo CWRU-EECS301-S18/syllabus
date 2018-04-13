@@ -106,8 +106,8 @@ SDC = Synopsys Design Constraint
 ### Clock Constraints
 
 * Clock Constraints must be provided
-* All registered signals reference a Clock
-* Quartus can derive signal constraints automatically from the Clock constraint
+* Register setup and hold times verified against Clock Constraints
+* Quartus derives signal constraints automatically
 * Most signals in the system will be derived
 
 ---?image=https://raw.githubusercontent.com/CWRU-EECS301-S18/syllabus/master/Lectures/Lecture12/Slides/images/Clock_Constraint_Example.png&size=auto 90%
