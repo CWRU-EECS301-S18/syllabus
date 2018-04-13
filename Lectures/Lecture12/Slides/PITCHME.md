@@ -21,11 +21,11 @@ Topics
 
 ---
 
-### Industry Workshop
+## Industry Workshop
 
 #### Intel Programmable Solutions Group
 
-**Introduction to FPGAs and Embedded Systems Design**
+**Introduction to FPGAs & Embedded Systems Design**
 
 Tuesday April 17th, 5:00 - 8:00PM, Glennan 408
 
@@ -70,7 +70,8 @@ Bring your laptop - Dinner Provided
 
 ### Other CDC Structures
 
-* [Flancter](https://www.doulos.com/knowhow/fpga/fastcounter/)
+* Cross-Domain Handshaking
+	* [Flancter](https://www.doulos.com/knowhow/fpga/fastcounter/)
 * True-Dual Port Block RAM
 * FIFO
 * Mailbox
@@ -91,6 +92,7 @@ Bring your laptop - Dinner Provided
 
 * Quartus constraint files have an **.sdc** extension
 * Every lab project has had a constraints file included
+	* [Lab 9 Constraints File](EECS301_Lab9_Project.sdc)
 * TimeQuest Timing Analyzer provides timing reports
 * Refer to this [User Guide](http://www.alterawiki.com/uploads/3/3f/TimeQuest_User_Guide.pdf) for detailed information about setting constraints in Quartus
 
