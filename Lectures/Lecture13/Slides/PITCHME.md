@@ -29,30 +29,29 @@ EtherType 0x8000 is IPv4 Datagram
 
 ---
 
-### Cyclic Redundancy Check (CRC)
+#### Cyclic Redundancy Check (CRC)
 
 * Data Block Error Detection
 * Polynomial Division
 * Uses
 	* Ethernet L2 Frames (32-bit)
 	* USB (5-bit & 16-bit)
-	* 
 
 
----?image=https://raw.githubusercontent.com/CWRU-EECS301-S18/syllabus/master/Lectures/Lecture13/Slides/images/LFSR_CRC5_Diagram.png&size=auto 90%
+---?image=https://raw.githubusercontent.com/CWRU-EECS301-S18/syllabus/master/Lectures/Lecture13/Slides/images/LFSR_CRC5_Diagram.png&size=90% auto
 
 
----?image=https://raw.githubusercontent.com/CWRU-EECS301-S18/syllabus/master/Lectures/Lecture13/Slides/images/Loop_Unwind_Step0.png&size=auto 90%
+---?image=https://raw.githubusercontent.com/CWRU-EECS301-S18/syllabus/master/Lectures/Lecture13/Slides/images/Loop_Unwind_Step0.png&size=90% auto
 <!-- .slide: data-background-transition="none" -->
----?image=https://raw.githubusercontent.com/CWRU-EECS301-S18/syllabus/master/Lectures/Lecture13/Slides/images/Loop_Unwind_Step1.png&size=auto 90%
+---?image=https://raw.githubusercontent.com/CWRU-EECS301-S18/syllabus/master/Lectures/Lecture13/Slides/images/Loop_Unwind_Step1.png&size=90% auto
 <!-- .slide: data-background-transition="none" -->
----?image=https://raw.githubusercontent.com/CWRU-EECS301-S18/syllabus/master/Lectures/Lecture13/Slides/images/Loop_Unwind_Step2.png&size=auto 90%
+---?image=https://raw.githubusercontent.com/CWRU-EECS301-S18/syllabus/master/Lectures/Lecture13/Slides/images/Loop_Unwind_Step2.png&size=90% auto
 <!-- .slide: data-background-transition="none" -->
----?image=https://raw.githubusercontent.com/CWRU-EECS301-S18/syllabus/master/Lectures/Lecture13/Slides/images/Loop_Unwind_Step3.png&size=auto 90%
+---?image=https://raw.githubusercontent.com/CWRU-EECS301-S18/syllabus/master/Lectures/Lecture13/Slides/images/Loop_Unwind_Step3.png&size=90% auto
 <!-- .slide: data-background-transition="none" -->
----?image=https://raw.githubusercontent.com/CWRU-EECS301-S18/syllabus/master/Lectures/Lecture13/Slides/images/Loop_Unwind_Step4.png&size=auto 90%
+---?image=https://raw.githubusercontent.com/CWRU-EECS301-S18/syllabus/master/Lectures/Lecture13/Slides/images/Loop_Unwind_Step4.png&size=90% auto
 
----?image=https://raw.githubusercontent.com/CWRU-EECS301-S18/syllabus/master/Lectures/Lecture13/Slides/images/CRC5_Code_Example.png&size=auto 90%
+---?image=https://raw.githubusercontent.com/CWRU-EECS301-S18/syllabus/master/Lectures/Lecture13/Slides/images/CRC5_Code_Example.png&size=90% auto
 
 ---
 
