@@ -42,14 +42,13 @@ EtherType 0x8000 is IPv4 Datagram
 
 
 ---?image=https://raw.githubusercontent.com/CWRU-EECS301-S18/syllabus/master/Lectures/Lecture13/Slides/images/Loop_Unwind_Step0.png&size=90% auto
-
-+++?image=https://raw.githubusercontent.com/CWRU-EECS301-S18/syllabus/master/Lectures/Lecture13/Slides/images/Loop_Unwind_Step1.png&size=90% auto
+---?image=https://raw.githubusercontent.com/CWRU-EECS301-S18/syllabus/master/Lectures/Lecture13/Slides/images/Loop_Unwind_Step1.png&size=90% auto
 <!-- .slide: data-background-transition="none" -->
-+++?image=https://raw.githubusercontent.com/CWRU-EECS301-S18/syllabus/master/Lectures/Lecture13/Slides/images/Loop_Unwind_Step2.png&size=90% auto
+---?image=https://raw.githubusercontent.com/CWRU-EECS301-S18/syllabus/master/Lectures/Lecture13/Slides/images/Loop_Unwind_Step2.png&size=90% auto
 <!-- .slide: data-background-transition="none" -->
-+++?image=https://raw.githubusercontent.com/CWRU-EECS301-S18/syllabus/master/Lectures/Lecture13/Slides/images/Loop_Unwind_Step3.png&size=90% auto
+---?image=https://raw.githubusercontent.com/CWRU-EECS301-S18/syllabus/master/Lectures/Lecture13/Slides/images/Loop_Unwind_Step3.png&size=90% auto
 <!-- .slide: data-background-transition="none" -->
-+++?image=https://raw.githubusercontent.com/CWRU-EECS301-S18/syllabus/master/Lectures/Lecture13/Slides/images/Loop_Unwind_Step4.png&size=90% auto
+---?image=https://raw.githubusercontent.com/CWRU-EECS301-S18/syllabus/master/Lectures/Lecture13/Slides/images/Loop_Unwind_Step4.png&size=90% auto
 <!-- .slide: data-background-transition="none" -->
 
 ---?image=https://raw.githubusercontent.com/CWRU-EECS301-S18/syllabus/master/Lectures/Lecture13/Slides/images/CRC5_Code_Example.png&size=90% auto
