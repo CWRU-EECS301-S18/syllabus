@@ -25,17 +25,33 @@ Topics
 
 Note:
 
-EtherType 0x8000 is IPv4 Datagram
+* EtherType 0x8000 is IPv4 Datagram
+* CRC Checksum is a 32-bit CRC
 
 ---
 
 #### Cyclic Redundancy Check (CRC)
 
 * Data Block Error Detection
-* Polynomial Division
+* Fixed-Width Checksum Value
+* Remainder from Polynomial Division
+* Simple Error Correction Possible
 * Uses
 	* Ethernet L2 Frames (32-bit)
 	* USB (5-bit & 16-bit)
+	* Many other [protocols](https://en.wikipedia.org/wiki/Cyclic_redundancy_check#Polynomial_representations_of_cyclic_redundancy_checks)
+
+Note:
+
+* A single fixed-width CRC is computed for a block of data
+
+---
+
+* CRC defined by fixed-width and polynomial
+* Example: CRC-5-USB
+	* 5-bit fixed-width CRC value
+	* Polynomial = x<sup>5</sup> + x<sup>2</sup> + 1
+* Algorithm implemented with a Linear-Feedback Shift Register
 
 
 ---?image=https://raw.githubusercontent.com/CWRU-EECS301-S18/syllabus/master/Lectures/Lecture13/Slides/images/LFSR_CRC5_Diagram.png&size=90% auto
