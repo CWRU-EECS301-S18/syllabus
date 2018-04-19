@@ -54,7 +54,7 @@ Note:
 * Example: CRC-5-USB
 	* Used for USB Token Packets
 	* 5-bit CRC value
-	* Polynomial = x<sup>5</sup> + x<sup>2</sup> + 1
+	* Polynomial P(x) = x<sup>5</sup> + x<sup>2</sup> + 1
 
 Note:
 
@@ -64,10 +64,12 @@ Note:
 
 ---
 
-#### Multi-bit Optimization
+#### Parallel Data Optimization
 
 * LFSR normally feeds one bit at a time
-* Multiple bits can be fed per cycle by tracking the bit positions and adjusting the shift register input equations
+* Many applications use 4, 8, or wider data paths
+* Feed multiple bits per cycle by tracking bit positions over multiple steps
+* Adjust the shift register input equations based on finial positions
 * Unwind the Loop
 
 ---?image=https://raw.githubusercontent.com/CWRU-EECS301-S18/syllabus/master/Lectures/Lecture13/Slides/images/Loop_Unwind_Step0.png&size=90% auto
