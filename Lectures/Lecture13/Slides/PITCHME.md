@@ -83,12 +83,42 @@ Note:
 <!-- .slide: data-background-transition="none" -->
 
 ---?image=https://raw.githubusercontent.com/CWRU-EECS301-S18/syllabus/master/Lectures/Lecture13/Slides/images/CRC5_Code_Example.png&size=90% auto
+<!-- .slide: data-background-transition="none" -->
 
 ---
 
 #### Ethernet CRC32 Polynomial
 
-x<sup>32</sup> + x<sup>26</sup> + x<sup>23</sup> + x<sup>22</sup> + x<sup>16</sup> + x<sup>12</sup> + x<sup>11</sup> + x<sup>10</sup> + x<sup>8</sup> + x<sup>7</sup> + x<sup>5</sup> + x<sup>4</sup> + x<sup>2</sup> + x + 1
+* 32-bit CRC value
+* P(x) = x<sup>32</sup> + x<sup>26</sup> + x<sup>23</sup> + x<sup>22</sup> + x<sup>16</sup> + x<sup>12</sup> + x<sup>11</sup> + x<sup>10</sup> + x<sup>8</sup> + x<sup>7</sup> + x<sup>5</sup> + x<sup>4</sup> + x<sup>2</sup> + x + 1
+* Leading and Trailing 0's Fixes
+	* Initial Value set to 0xFFFFFFFF
+	* Post Invert CRC Value before sending
+
+Note:
+
+* Ethernet Data Payloads are often padded with 0's
+* Setting Initial Value to all 1's prevents leading 0's from being ignored
+* Post Inverting CRC value prevents trailing (or padded) 0's from being ignored
+
+---
+
+#### Hash Functions
+
+* A Hash Function produces a fixed-width value from an arbitrary amount of data
+* CRC is a form of hash function
+* Some have cryptographic security, some don't
+* Other Common Examples
+	* MD5
+	* SHA-256
+	* [Many More](https://en.wikipedia.org/wiki/List_of_hash_functions)
+
+---
+
+### SHA-256
+
+
+
 
 ---
 
