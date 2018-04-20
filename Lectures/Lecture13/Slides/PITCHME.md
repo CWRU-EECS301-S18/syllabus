@@ -87,13 +87,14 @@ Note:
 
 ---
 
-#### Ethernet CRC32 Polynomial
+#### Ethernet L2 Frame CRC-32
 
 * 32-bit CRC value
 * P(x) = x<sup>32</sup> + x<sup>26</sup> + x<sup>23</sup> + x<sup>22</sup> + x<sup>16</sup> + x<sup>12</sup> + x<sup>11</sup> + x<sup>10</sup> + x<sup>8</sup> + x<sup>7</sup> + x<sup>5</sup> + x<sup>4</sup> + x<sup>2</sup> + x + 1
-* Leading and Trailing 0's Fixes
+* Leading and Trailing 0's Corrections
 	* Initial Value set to 0xFFFFFFFF
 	* Post Invert CRC Value before sending
+* 8-bit Parallel Data Input works best
 
 Note:
 
@@ -117,8 +118,25 @@ Note:
 
 ### SHA-256
 
+* Cryptographic Hash Function
+* Applications
+	* Encryption Keys
+	* BitCoin Mining
+	* [Many More](https://en.wikipedia.org/wiki/SHA-2)
 
+Note:
 
+[Online SHA-256 Calculator](http://www.md5calc.com)
+
+---
+
+#### Compression Function
+
+![Diagram](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/SHA-2.svg/1280px-SHA-2.svg.png)
+
+---
+
+### Lab 10 Demo
 
 ---
 
