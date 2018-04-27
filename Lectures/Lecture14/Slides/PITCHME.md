@@ -19,9 +19,14 @@ Topics
 
 ---
 
-## Course Review
+### Class Review & Feedback
+
+* How'd the course go?
+* Things you liked / disliked?
+* Suggestions for improvement?
 
 --- 
 
-# HAVE A GREAT SUMMER
+## HAVE A
+# GREAT SUMMER!
 
